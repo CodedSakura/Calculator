@@ -1,0 +1,23 @@
+.body {
+  background: #F00;
+  padding: 10px;
+}
+
+.display {
+  background: #0F0;
+  padding: 10px;
+}
+
+.keyboard {
+  background: #00F;
+  padding: 10px;
+}
+.keyboard-column {
+  display: inline-block;
+}
+.keyboard-button {
+  background: #FF0;
+  font-family: monospace;
+  text-align: center;
+  font-size: 36px;
+}
